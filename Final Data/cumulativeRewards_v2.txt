@@ -1,0 +1,7 @@
+Cumulative Reward: -139.5	Iterations:37
+Cumulative Reward: -216.5	Iterations:55
+Cumulative Reward: -294.5	Iterations:73
+Cumulative Reward: -232.5	Iterations:59
+Cumulative Reward: -240	Iterations:62
+Cumulative Reward: -232	Iterations:86
+Cumulative Reward: -432	Iterations:106
