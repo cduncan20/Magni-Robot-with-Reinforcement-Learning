@@ -1,0 +1,2 @@
+# Magni-Robot-with-Reinforcement-Learning
+The Magni Robot is a ROS powered robot that allows the user to build advanced robot software quickly by harnessing the many tools and libraries built into ROS. This project uses ROS &amp; C++ to implement a reinforcement learning algorithm that teaches the Magni Robot to drive in a straight line despite it having a "broken" motor in one of its two front-wheel drive wheels. 
